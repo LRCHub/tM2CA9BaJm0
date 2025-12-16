@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゲスの極み",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2025-12-16T13:26:22.710416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゲスの極み",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": false,
+      "path": "select/01_ゲスの極み_Gesu_no_Kiwami_Otome.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲスの極み",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_ゲスの極み_ゲスの極み乙女。.txt"
+    }
+  ]
+}
